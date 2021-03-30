@@ -7,11 +7,12 @@
 <br>
 <br>
 
-======================================================================================
-                     
-                     ❗ https://pnrtscr.com/gz5n0s ❗
+# ====================================================================================
+<a href="https://pnrtscr.com/gz5n0s">❗NO ENTER❗</a>
+<img width="95" height="80" src="https://gifimage.net/wp-content/uploads/2017/08/transparent-anime-gif-13.gif" />
+# ====================================================================================
 
-======================================================================================
+<br>
 <img src="https://cdn2.scratch.mit.edu/get_image/gallery/279661_200x130.png?v=1384064073.0" />
 
 <code><img height="50" src="https://24.media.tumblr.com/df774b7fe6934b7749f6c686b94aced7/tumblr_mndp9xPVWO1r3japgo1_500.gif" /></code>
