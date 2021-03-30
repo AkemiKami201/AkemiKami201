@@ -2,6 +2,9 @@
 ## **Hello user, I have nothing else to write**
 <br> 
 <code><img width="50" height="50" src="https://emoji.discord.st/emojis/12f7ae8e-54e9-4e0a-a247-f62ee670e8a5.gif"/></code>
+<img width="66" height="50" src="https://pa1.narvii.com/7238/6816864269b6a35b622fbf1e0fd07dc7311565fer1-375-300_hq.gif" />
+<code><img width="50" height="50" src="https://emoji.discord.st/emojis/12f7ae8e-54e9-4e0a-a247-f62ee670e8a5.gif"/></code>
+<br>
 <br>
 
 ======================================================================================
@@ -59,7 +62,7 @@
       </td>
     </tr>
   </tbody>
-</table>
+</table><img height="70" src="https://backgroundcheckall.com/wp-content/uploads/2018/10/anime-gif-no-background.gif" />
 <!---
 ChronoLux616/ChronoLux616 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
