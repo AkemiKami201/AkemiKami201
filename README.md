@@ -41,7 +41,7 @@
 <br>
 <br>
 
-  ## What I am using or learning
+  ## What I use or I'am learning
 
 <table>
   <tbody>
