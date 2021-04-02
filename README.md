@@ -40,7 +40,7 @@
 <br>
 <br>
 
-  ## What I use or I'am learning
+  ## ++++++++++++++++++++++++++++++++++
 
 <table>
   <tbody>
@@ -50,10 +50,6 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>PyCharm</strong></span><br><br><br>
-        <img height="64px" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png">
-      </td>
-      <td width="25%" align="center">
         <span><strong>Javascript</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
@@ -61,27 +57,17 @@
         <span>𝗖#</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
-    </tr>
-     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-       <td width="25%" align="center">
         <span><strong>TypeScript</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
+    </tr>
+     <tr valign="top">
        <td width="25%" align="center">
         <span>𝗖</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
+       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
