@@ -14,7 +14,6 @@
 <code><a href="#" target="_blank"><img height="50" src="https://emoji.discord.st/emojis/12f7ae8e-54e9-4e0a-a247-f62ee670e8a5.gif"></a></code>
 <code><a href="#" target="_blank"><img height="50" src="https://pa1.narvii.com/7238/6816864269b6a35b622fbf1e0fd07dc7311565fer1-375-300_hq.gif"></a></code>
 <code><a href="#" target="_blank"><img height="50" src="https://emoji.discord.st/emojis/12f7ae8e-54e9-4e0a-a247-f62ee670e8a5.gif"></a></code>
-<code><a href="#" target="_blank"><img height="50" src="https://emoji.discord.st/emojis/12f7ae8e-54e9-4e0a-a247-f62ee670e8a5.gif"></a></code>
 <br>
 <br>
 
