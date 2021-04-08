@@ -40,40 +40,7 @@
 <br>
 <br>
 
-  ## ++++++++++++++++++++++++++++++++++
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Javascript</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>TypeScript</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
-      </td>
-    </tr>
-     <tr valign="top">
-       <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+  ## +++++++++++++++++++++++++++++++++++
 
 <img height="70" src="https://backgroundcheckall.com/wp-content/uploads/2018/10/anime-gif-no-background.gif" />
 <!---
