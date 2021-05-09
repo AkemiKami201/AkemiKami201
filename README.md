@@ -24,8 +24,6 @@
 
 <br>
 
-<img src="https://cdn2.scratch.mit.edu/get_image/gallery/279661_200x130.png?v=1384064073.0"/><img src="https://cdn2.scratch.mit.edu/get_image/gallery/279661_200x130.png?v=1384064073.0"/>
-
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <code><a href="#"><img height="50" src="https://24.media.tumblr.com/df774b7fe6934b7749f6c686b94aced7/tumblr_mndp9xPVWO1r3japgo1_500.gif" /></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
