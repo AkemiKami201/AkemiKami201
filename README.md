@@ -1,5 +1,5 @@
 # <img width="25" height="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/emojidex/59/large-red-circle_1f534.png" /> Profile
-## **Hello user, I have nothing else to write**
+## **Hello user**
 <br>
 
 <code><a href="#" target="_blank"><img height="50" src="https://emoji.discord.st/emojis/12f7ae8e-54e9-4e0a-a247-f62ee670e8a5.gif"></a></code>
