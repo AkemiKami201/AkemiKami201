@@ -92,9 +92,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+  <a href="https://www.youtube.com/@LeeShemsung/playlists"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a>
+  <a href="https://discord.gg/python"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href="https://ko-fi.com/akemi201"><img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  /></a>
 </div>
 
 ###
@@ -117,22 +117,19 @@
 
 ###
 
-<img align="left" height="200" src="https://pa1.narvii.com/6388/140a8f38fcc4c55457a946dc873cac32197df6c9_hq.gif"  />
+<img align="left" height="180" src="https://pa1.narvii.com/6388/140a8f38fcc4c55457a946dc873cac32197df6c9_hq.gif"  />
 
 ###
 
-<img align="left" height="200" src="https://media.tenor.com/MRT_brH_V78AAAAM/homura-akemi-puella-magi-madoka-magica.gif"  />
+<img align="left" height="180" src="https://media.tenor.com/MRT_brH_V78AAAAM/homura-akemi-puella-magi-madoka-magica.gif"  />
 
 ###
 
-<img align="left" height="200" src="https://giffiles.alphacoders.com/345/34580.gif"  />
+<img align="left" height="180" src="https://giffiles.alphacoders.com/345/34580.gif"  />
 
 ###
 
-<img align="left" height="200" src="https://media1.tenor.com/images/51f85166e1dbc0530a6717bf97b52de1/tenor.gif?itemid=9917869"  />
+<img align="left" height="180" src="https://media1.tenor.com/images/51f85166e1dbc0530a6717bf97b52de1/tenor.gif?itemid=9917869"  />
 
-###
-
-<img align="left" height="200" src="https://pa1.narvii.com/6388/140a8f38fcc4c55457a946dc873cac32197df6c9_hq.gif"  />
 
 ###
