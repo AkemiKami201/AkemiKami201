@@ -101,13 +101,13 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ChronoLux/ChronoLux/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ChronoLux616/ChronoLux616/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/LuxDw">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=LuxDw&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=oci9tsi2v1tvjn0bp11kow1r5&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
