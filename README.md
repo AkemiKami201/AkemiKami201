@@ -101,7 +101,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ChronoLux616/ChronoLux616/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/ChronoLux616/ChronoLux616/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
