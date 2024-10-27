@@ -6,6 +6,10 @@
     <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto" align="center"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto" align="center"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto" align="center"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto" align="center"/></a>
   </div>
   
   <hr>
@@ -40,13 +44,24 @@
 
 ## 🔥 Github Stats
 
-<img align="right" width="43%" src="https://cdn.donmai.us/sample/57/50/__akemi_homura_kaname_madoka_and_kaname_madoka_mahou_shoujo_madoka_magica_and_1_more_drawn_by_chise_jwhh123__sample-57500878d3f6f2cd4b758950e974f036.jpg"/>
+<img align="right" width="38%" src="https://i.postimg.cc/L8XPP6wx/akemi01.jpg"/>
 
 <div align="center">
   <a href="https://github.com/AkemiKami201"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AkemiKami201&disable_animations=false&show_icons=true&include_all_commits=true&count_private=true&theme=calm_pink&title_color=ff3068?"></a>
   <a href="https://github.com/AkemiKami201"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=AkemiKami201&theme=outrun&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkemiKami201&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+</div>
+
+<div align="center">
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
+  <img alt="github-snake" src="github-user-contribution.svg" />
+</picture>
+  
 </div>
 
 <hr>
