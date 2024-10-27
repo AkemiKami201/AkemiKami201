@@ -1,23 +1,55 @@
-<h2 align="left">🌓 Yahallo!! I'm AkemiKami201 🌔</h2>
+<div>
+  <div align="center">
+    <a href="#"><img src="https://giffiles.alphacoders.com/345/34566.gif" width="100%" height="auto"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto" align="center"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto" align="center"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto" align="center"/></a>
+  </div>
+  
+  <hr>
+  
+  <div align="center">
+    
+  ![:AkemiKami201](https://count.getloli.com/@AkemiKami201?name=AkemiKami201&theme=booru-lewd&padding=7&offset=0&scale=1&pixelated=1&darkmode=auto)
+  
+  </div>
+  
+<hr>
+  <div>
+    <h2 align="left">Hello I'm AkemiKami201 </h2>
 
-###
-
-<p align="left">Learning something new maybe...<br>Also anime lover 🌟, manga reader ❄ and like to play videogames 🎮</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AkemiKami201/count.svg?"  />
+  <p align="left">Learning something new maybe...<br>Also anime lover 🌟, manga reader ❄ and like to play videogames 🎮</p>
+<hr>
+      🧑 More about me
+      
+      - 🔭 still working
+      
+      - 🌱 still working 🤓
+      
+      - 🤝 still working
+      
+      - 👨‍💻 still working
+      
+      - 💬 still working
+      
+      - 📫 Reach me
+  </div>
 </div>
 
-###
+## 🔥 Github Stats
+
+<img align="right" width="43%" src="https://cdn.donmai.us/sample/57/50/__akemi_homura_kaname_madoka_and_kaname_madoka_mahou_shoujo_madoka_magica_and_1_more_drawn_by_chise_jwhh123__sample-57500878d3f6f2cd4b758950e974f036.jpg"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkemiKami201&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=7.7" height="150" alt="stats graph" /> <br>
+  <a href="https://github.com/AkemiKami201"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AkemiKami201&disable_animations=false&show_icons=true&include_all_commits=true&count_private=true&theme=calm_pink&title_color=ff3068?"></a>
+  <a href="https://github.com/AkemiKami201"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=AkemiKami201&theme=outrun&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkemiKami201&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<hr>
 
 <h4 align="center">Languages and Frameworks</h4>
 
@@ -55,7 +87,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-###
+<hr>
 
 <h4 align="center">Tools</h4>
 
@@ -106,30 +138,20 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/LuxDw">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=oci9tsi2v1tvjn0bp11kow1r5&count=5" alt="Spotify recently played"  />
-  </a>
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=oci9tsi2v1tvjn0bp11kow1r5&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
 
-###
+<hr>
 
 <h4 align="center">Homura Akemi (暁美ほむら) Supremacy</h4>
 
-###
+<hr>
 
-<img align="left" height="180" src="https://pa1.narvii.com/6388/140a8f38fcc4c55457a946dc873cac32197df6c9_hq.gif"  />
-
-###
-
-<img align="left" height="180" src="https://media.tenor.com/MRT_brH_V78AAAAM/homura-akemi-puella-magi-madoka-magica.gif"  />
-
-###
-
-<img align="left" height="180" src="https://giffiles.alphacoders.com/345/34580.gif"  />
-
-###
-
-<img align="left" height="180" src="https://media1.tenor.com/images/51f85166e1dbc0530a6717bf97b52de1/tenor.gif?itemid=9917869"  />
-
-
-###
+<div align="center">
+  <img align="left" height="180" src="https://pa1.narvii.com/6388/140a8f38fcc4c55457a946dc873cac32197df6c9_hq.gif"  />
+  <img align="left" height="180" src="https://media.tenor.com/MRT_brH_V78AAAAM/homura-akemi-puella-magi-madoka-magica.gif"  />
+  <img align="left" height="180" src="https://giffiles.alphacoders.com/345/34580.gif"  />
+  <img align="left" height="180" src="https://media1.tenor.com/images/51f85166e1dbc0530a6717bf97b52de1/tenor.gif?itemid=9917869"  />
+</div>
