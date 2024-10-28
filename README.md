@@ -47,7 +47,7 @@
 
 <h2> 🔥 Github Stats </h2>
 
-<a href="#"><img align="right" width="45%" src="https://i.postimg.cc/GtpCBLqy/akemi01.png"/></a>
+<a href="#"><img align="right" width="47%" src="https://i.postimg.cc/GtpCBLqy/akemi01.png"/></a>
 
 <div align="center">
   <a href="https://github.com/AkemiKami201"><img width="50%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=AkemiKami201&disable_animations=false&show_icons=true&include_all_commits=true&count_private=true&theme=calm_pink&title_color=ffauto68?"></a>
@@ -93,7 +93,7 @@
   <a href="#"><img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" height="60" alt="csharp logo"  /></a>
   <a href="#"><img src="https://img.icons8.com/?size=100&id=XiUbqgjmy6MG&format=png&color=000000" height="60" alt="django logo"  /></a>
   <a href="#"><img src="https://img.icons8.com/?size=100&id=FBycNmdwUQz1&format=png&color=000000" height="60" alt="java logo"  /></a>
-  <a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Ffull%2F98-985032_flask-logo-flask-python-icon.png&f=1&nofb=1&ipt=703a9da63ce8cff8b2b8cf63c227df5145778b8fb6e89fb140fe3954b7c77568&ipo=images" height="100" alt="flask logo"  /></a>
+  <a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Ffull%2F98-985032_flask-logo-flask-python-icon.png&f=1&nofb=1&ipt=703a9da63ce8cff8b2b8cf63c227df5145778b8fb6e89fb140fe3954b7c77568&ipo=images" height="60" alt="flask logo"  /></a>
   <a href="#"><img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" height="60" alt="tailwindcss logo"  /></a>
   <a href="#"><img src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" height="60" alt="nodejs logo"  /></a>
   <a href="#"><img src="https://img.icons8.com/?size=100&id=6HoY2R49rl7A&format=png&color=000000" height="60" alt="microsoftsqlserver logo"  /></a>
