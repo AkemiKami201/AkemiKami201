@@ -1,6 +1,6 @@
 <div>
   <div align="center">
-    <a href="#"><img src="https://giffiles.alphacoders.com/345/34566.gif" width="100%" height="auto"/></a>
+    <a href="#"><img src="https://giffiles.alphacoders.com/345/34566.gif" width="100%" height="auto" style="border-radius: 50%;"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto" align="center"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto" align="center"/></a>
@@ -29,7 +29,7 @@
 
       🧑 More about me
       
-      - 🔭 still working
+      - 🎮 I like to play videogames (**still working**)
       
       - 🌱 still working 🤓
       
@@ -47,10 +47,10 @@
 
 <h2> 🔥 Github Stats </h2>
 
-<a href="#"><img align="right" width="45%" src="https://i.postimg.cc/L8XPP6wx/akemi01.jpg"/></a>
+<a href="#"><img align="right" width="45%" src="https://i.postimg.cc/GtpCBLqy/akemi01.png"/></a>
 
 <div align="center">
-  <a href="https://github.com/AkemiKami201"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AkemiKami201&disable_animations=false&show_icons=true&include_all_commits=true&count_private=true&theme=calm_pink&title_color=ffauto68?"></a>
+  <a href="https://github.com/AkemiKami201"><img width="50%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=AkemiKami201&disable_animations=false&show_icons=true&include_all_commits=true&count_private=true&theme=calm_pink&title_color=ffauto68?"></a>
   <a href="https://github.com/AkemiKami201"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=AkemiKami201&theme=outrun&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkemiKami201&theme=outrun&layout=donut)](https://github.com/AkemiKami201)
@@ -64,7 +64,7 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkemiKami201&theme=radical)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkemiKami201&theme=radical)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkemiKami201&theme=radical&utcOffset=8)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkemiKami201&theme=radical)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkemiKami201&theme=radical)
   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akemi201&layout=compact)](https://github.com/AkemiKami201)
   
 </div>
@@ -105,7 +105,7 @@
 
 <a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
 
-<h4 align="center">Tools</h4>
+<h2> 🔥 Tools </h2>
 
 <div align="center">
   <a href="#"><img src="https://img.icons8.com/?size=100&id=90168&format=png&color=000000" height="auto" alt="gimp logo"  /></a>
@@ -123,13 +123,31 @@
 
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=oci9tsi2v1tvjn0bp11kow1r5&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=oci9tsi2v1tvjn0bp11kow1r5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/AkemiKami201/spotify-github-profile)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=oci9tsi2v1tvjn0bp11kow1r5">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=oci9tsi2v1tvjn0bp11kow1r5&hide_top_artists=1&show_border=1" height="443" alt="Data Card for Spotify">
+  </a> 
 </div>
 
 <a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
 
-<h4 align="center">Homura Akemi (暁美ほむら) Supremacy</h4>
+<h1 align="center">Homura Akemi (暁美ほむら) Supremacy</h1>
+
+<div align="center">
+  
+_"Sei nicht traurig, bald ist es Nacht,_<br>
+_Da sehn wir über dem bleichen Land_<br>
+_Den kühlen Mond, wie er heimlich lacht,_<br>
+_Und ruhen Hand in Hand._<br>
+
+_Sei night trauig, bald kommt die Zeit,_<br>
+_Da haben wir Ruh. Unsre Kreuzlein stehen_<br>
+_Am hellen Straßenrande zu zweit,_<br>
+_Und es regnet un schneit,_<br>
+_Und die Winde kommen und gehen."_<br><br>
+
+_**"Auf Wanderung"**_ | **Hermann Hesse**
+
+</div>
 
 <a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
 
