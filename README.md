@@ -84,23 +84,23 @@
 <h2> 🔥 Languages and Frameworks </h2>
 
 <div align="center">
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000" height="auto" alt="javascript logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" height="auto" alt="typescript logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=Vra58PN2KmI5&format=png&color=000000" height="auto" alt="react logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=tDgTMcLwgORi&format=png&color=000000" height="auto" alt="html5 logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=Gw2E6wxTkOcT&format=png&color=000000" height="auto" alt="css3 logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000" height="auto" alt="python logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" height="auto" alt="csharp logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=XiUbqgjmy6MG&format=png&color=000000" height="auto" alt="django logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=FBycNmdwUQz1&format=png&color=000000" height="auto" alt="java logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000" height="60" alt="javascript logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" height="60" alt="typescript logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=Vra58PN2KmI5&format=png&color=000000" height="60" alt="react logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=tDgTMcLwgORi&format=png&color=000000" height="60" alt="html5 logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=Gw2E6wxTkOcT&format=png&color=000000" height="60" alt="css3 logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000" height="60" alt="python logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" height="60" alt="csharp logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=XiUbqgjmy6MG&format=png&color=000000" height="60" alt="django logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=FBycNmdwUQz1&format=png&color=000000" height="60" alt="java logo"  /></a>
   <a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Ffull%2F98-985032_flask-logo-flask-python-icon.png&f=1&nofb=1&ipt=703a9da63ce8cff8b2b8cf63c227df5145778b8fb6e89fb140fe3954b7c77568&ipo=images" height="100" alt="flask logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" height="auto" alt="tailwindcss logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" height="auto" alt="nodejs logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=6HoY2R49rl7A&format=png&color=000000" height="auto" alt="microsoftsqlserver logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000" height="auto" alt="mysql logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000" height="auto" alt="postgresql logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000" height="auto" alt="bash"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000" height="auto" alt="git"/></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" height="60" alt="tailwindcss logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" height="60" alt="nodejs logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=6HoY2R49rl7A&format=png&color=000000" height="60" alt="microsoftsqlserver logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000" height="60" alt="mysql logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000" height="60" alt="postgresql logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000" height="60" alt="bash"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000" height="60" alt="git"/></a>
 </div>
 
 <a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
@@ -108,15 +108,15 @@
 <h2> 🔥 Tools </h2>
 
 <div align="center">
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=90168&format=png&color=000000" height="auto" alt="gimp logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000" height="auto" alt="linux logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" height="auto" alt="visualstudio logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=cObKJ1chsfjN&format=png&color=000000" height="auto" alt="premierepro logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=ExsIOj3WcBtY&format=png&color=000000" height="auto" alt="illustrator logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=81233&format=png&color=000000" height="auto" alt="firefox logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000" height="auto" alt="arch"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=17848&format=png&color=000000" height="auto" alt="opensuse logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" height="auto" alt="vscode logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=90168&format=png&color=000000" height="60" alt="gimp logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000" height="60" alt="linux logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" height="60" alt="visualstudio logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=cObKJ1chsfjN&format=png&color=000000" height="60" alt="premierepro logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=ExsIOj3WcBtY&format=png&color=000000" height="60" alt="illustrator logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=81233&format=png&color=000000" height="60" alt="firefox logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000" height="60" alt="arch"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=17848&format=png&color=000000" height="60" alt="opensuse logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" height="60" alt="vscode logo"  /></a>
 </div>
 
 <a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
@@ -128,7 +128,7 @@
   </a> 
 </div>
 
-<a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
+<a href="#"><img align="right" width="60" src="img/line1.png"/></a>
 
 <h1 align="center">Homura Akemi (暁美ほむら) Supremacy</h1>
 
@@ -149,7 +149,7 @@ _**"Auf Wanderung"**_ | **Hermann Hesse**
 
 </div>
 
-<a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
+<a href="#"><img align="right" width="60" src="img/line1.png"/></a>
 
 <div align="center">
   <img height="180" src="https://pa1.narvii.com/6388/140a8f38fcc4c55457a946dc873cac32197df6c9_hq.gif"  />
