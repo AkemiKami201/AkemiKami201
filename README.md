@@ -11,21 +11,21 @@
     <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto" align="center"/></a>
   </div>
-  
-  <hr>
-  
+
+  <img align="right" width="auto" src="img/line1.png"/>
+
   <div align="center">
     
   ![:AkemiKami201](https://count.getloli.com/@AkemiKami201?name=AkemiKami201&theme=booru-lewd&padding=7&offset=0&scale=1&pixelated=1&darkmode=auto)
   
   </div>
   
-<hr>
-  <div>
-    <h2 align="left">Hello I'm AkemiKami201 </h2>
-
+  <img align="right" width="auto" src="img/line1.png"/>
+  
+<div>
+  <h2 align="left">Hello I'm AkemiKami201 </h2>
   <p align="left">Learning something new maybe...<br>Also anime lover 🌟, manga reader ❄ and like to play videogames 🎮</p>
-<hr>
+
       🧑 More about me
       
       - 🔭 still working
@@ -42,7 +42,9 @@
   </div>
 </div>
 
-## 🔥 Github Stats
+<img align="right" width="auto" src="img/line1.png"/>
+
+<h2> 🔥 Github Stats </h2>
 
 <img align="right" width="38%" src="https://i.postimg.cc/L8XPP6wx/akemi01.jpg"/>
 
@@ -57,18 +59,16 @@
 <div align="center">
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
-  <img alt="github-snake" src="github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="img/github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="img/github-user-contribution.svg" />
+  <img alt="github-snake" src="img/github-user-contribution.svg" />
 </picture>
   
 </div>
 
-<hr>
+<img align="right" width="auto" src="img/line1.png"/>
 
 <h4 align="center">Languages and Frameworks</h4>
-
-###
 
 <div align="center">
   <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
@@ -102,11 +102,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-<hr>
+<img align="right" width="auto" src="img/line1.png"/>
 
 <h4 align="center">Tools</h4>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
@@ -132,11 +130,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
-
 <img align="right" height="250" src="https://25.media.tumblr.com/bb6dce68e92d7b5ec2674868a4aa882b/tumblr_mvtavrieQF1retaiio1_500.gif"  />
-
-###
 
 <div align="left">
   <a href="https://www.youtube.com/@LeeShemsung/playlists"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a>
@@ -144,13 +138,7 @@
   <a href="https://ko-fi.com/akemi201"><img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  /></a>
 </div>
 
-###
-
-<br clear="both">
-
-<!-- <img src="https://raw.githubusercontent.com/ChronoLux616/ChronoLux616/output/snake.svg" alt="Snake animation" /> -->
-
-###
+<img align="right" width="auto" src="img/line1.png"/>
 
 <div align="center">
   
@@ -158,11 +146,11 @@
 
 </div>
 
-<hr>
+<img align="right" width="auto" src="img/line1.png"/>
 
 <h4 align="center">Homura Akemi (暁美ほむら) Supremacy</h4>
 
-<hr>
+<img align="right" width="auto" src="img/line1.png"/>
 
 <div align="center">
   <img align="left" height="180" src="https://pa1.narvii.com/6388/140a8f38fcc4c55457a946dc873cac32197df6c9_hq.gif"  />
