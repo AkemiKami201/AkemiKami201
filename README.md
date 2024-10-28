@@ -12,19 +12,20 @@
     <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto" align="center"/></a>
   </div>
 
-  <img align="right" width="auto" src="img/line1.png"/>
+<a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
 
   <div align="center">
     
-  ![:AkemiKami201](https://count.getloli.com/@AkemiKami201?name=AkemiKami201&theme=booru-lewd&padding=7&offset=0&scale=1&pixelated=1&darkmode=auto)
+  <a href="#">![:AkemiKami201](https://count.getloli.com/@AkemiKami201?name=AkemiKami201&theme=booru-lewd&padding=7&offset=0&scale=1&pixelated=1&darkmode=auto)</a>
   
   </div>
   
-  <img align="right" width="auto" src="img/line1.png"/>
+<a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
   
 <div>
-  <h2 align="left">Hello I'm AkemiKami201 </h2>
-  <p align="left">Learning something new maybe...<br>Also anime lover 🌟, manga reader ❄ and like to play videogames 🎮</p>
+  <h1 align="left">Hello I'm AkemiKami201 </h1>
+  <p align="left">Learning something new maybe...<br>
+  Also anime lover 🌟, manga reader ❄ and like to play videogames 🎮</p>
 
       🧑 More about me
       
@@ -42,17 +43,29 @@
   </div>
 </div>
 
-<img align="right" width="auto" src="img/line1.png"/>
+<a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
 
 <h2> 🔥 Github Stats </h2>
 
-<img align="right" width="38%" src="https://i.postimg.cc/L8XPP6wx/akemi01.jpg"/>
+<a href="#"><img align="right" width="45%" src="https://i.postimg.cc/L8XPP6wx/akemi01.jpg"/></a>
 
 <div align="center">
-  <a href="https://github.com/AkemiKami201"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AkemiKami201&disable_animations=false&show_icons=true&include_all_commits=true&count_private=true&theme=calm_pink&title_color=ff3068?"></a>
+  <a href="https://github.com/AkemiKami201"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AkemiKami201&disable_animations=false&show_icons=true&include_all_commits=true&count_private=true&theme=calm_pink&title_color=ffauto68?"></a>
   <a href="https://github.com/AkemiKami201"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=AkemiKami201&theme=outrun&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkemiKami201&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkemiKami201&theme=outrun&layout=donut)](https://github.com/AkemiKami201)
+  
+</div>
+
+<a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
+
+<div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkemiKami201&theme=radical)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkemiKami201&theme=radical)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkemiKami201&theme=radical&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkemiKami201&theme=radical)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akemi201&layout=compact)](https://github.com/AkemiKami201)
   
 </div>
 
@@ -66,79 +79,47 @@
   
 </div>
 
-<img align="right" width="auto" src="img/line1.png"/>
+<a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
 
-<h4 align="center">Languages and Frameworks</h4>
+<h2> 🔥 Languages and Frameworks </h2>
 
 <div align="center">
-  <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
-  <img width="12" />
-  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></a>
-  <img width="12" />
-  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></a>
-  <img width="12" />
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></a>
-  <img width="12" />
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  /></a>
-  <img width="12" />
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  /></a>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000" height="auto" alt="javascript logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" height="auto" alt="typescript logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=Vra58PN2KmI5&format=png&color=000000" height="auto" alt="react logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=tDgTMcLwgORi&format=png&color=000000" height="auto" alt="html5 logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=Gw2E6wxTkOcT&format=png&color=000000" height="auto" alt="css3 logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000" height="auto" alt="python logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" height="auto" alt="csharp logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=XiUbqgjmy6MG&format=png&color=000000" height="auto" alt="django logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=FBycNmdwUQz1&format=png&color=000000" height="auto" alt="java logo"  /></a>
+  <a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Ffull%2F98-985032_flask-logo-flask-python-icon.png&f=1&nofb=1&ipt=703a9da63ce8cff8b2b8cf63c227df5145778b8fb6e89fb140fe3954b7c77568&ipo=images" height="100" alt="flask logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" height="auto" alt="tailwindcss logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" height="auto" alt="nodejs logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=6HoY2R49rl7A&format=png&color=000000" height="auto" alt="microsoftsqlserver logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000" height="auto" alt="mysql logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000" height="auto" alt="postgresql logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000" height="auto" alt="bash"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000" height="auto" alt="git"/></a>
 </div>
 
-<img align="right" width="auto" src="img/line1.png"/>
+<a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
 
 <h4 align="center">Tools</h4>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="30" alt="aarch64 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" height="30" alt="opensuse logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=90168&format=png&color=000000" height="auto" alt="gimp logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000" height="auto" alt="linux logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" height="auto" alt="visualstudio logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=cObKJ1chsfjN&format=png&color=000000" height="auto" alt="premierepro logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=ExsIOj3WcBtY&format=png&color=000000" height="auto" alt="illustrator logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=81233&format=png&color=000000" height="auto" alt="firefox logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=uIXgLv5iSlLJ&format=png&color=000000" height="auto" alt="arch"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=17848&format=png&color=000000" height="auto" alt="opensuse logo"  /></a>
+  <a href="#"><img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" height="auto" alt="vscode logo"  /></a>
 </div>
 
-<img align="right" height="250" src="https://25.media.tumblr.com/bb6dce68e92d7b5ec2674868a4aa882b/tumblr_mvtavrieQF1retaiio1_500.gif"  />
-
-<div align="left">
-  <a href="https://www.youtube.com/@LeeShemsung/playlists"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a>
-  <a href="https://discord.gg/python"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="https://ko-fi.com/akemi201"><img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  /></a>
-</div>
-
-<img align="right" width="auto" src="img/line1.png"/>
+<a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
 
 <div align="center">
   
@@ -146,15 +127,15 @@
 
 </div>
 
-<img align="right" width="auto" src="img/line1.png"/>
+<a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
 
 <h4 align="center">Homura Akemi (暁美ほむら) Supremacy</h4>
 
-<img align="right" width="auto" src="img/line1.png"/>
+<a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
 
 <div align="center">
-  <img align="left" height="180" src="https://pa1.narvii.com/6388/140a8f38fcc4c55457a946dc873cac32197df6c9_hq.gif"  />
-  <img align="left" height="180" src="https://media.tenor.com/MRT_brH_V78AAAAM/homura-akemi-puella-magi-madoka-magica.gif"  />
-  <img align="left" height="180" src="https://giffiles.alphacoders.com/345/34580.gif"  />
-  <img align="left" height="180" src="https://media1.tenor.com/images/51f85166e1dbc0530a6717bf97b52de1/tenor.gif?itemid=9917869"  />
+  <img height="180" src="https://pa1.narvii.com/6388/140a8f38fcc4c55457a946dc873cac32197df6c9_hq.gif"  />
+  <img height="180" src="https://media.tenor.com/MRT_brH_V78AAAAM/homura-akemi-puella-magi-madoka-magica.gif"  />
+  <img height="180" src="https://giffiles.alphacoders.com/345/34580.gif"  />
+  <img height="180" src="https://media1.tenor.com/images/51f85166e1dbc05autoa6717bf97b52de1/tenor.gif?itemid=9917869"  />
 </div>
