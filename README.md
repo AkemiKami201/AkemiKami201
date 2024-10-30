@@ -24,7 +24,7 @@
   
 <div>
   <h1 align="left">Hello I'm AkemiKami201 </h1>
-  <p align="left">Learning something new maybe...<br>
+  <p align="left">> Learning new things<br>
   Also anime lover 🌟, manga reader ❄ and like to play videogames 🎮</p>
 
     🧑 More about me
