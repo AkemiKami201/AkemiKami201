@@ -27,19 +27,19 @@
   <p align="left">Learning something new maybe...<br>
   Also anime lover 🌟, manga reader ❄ and like to play videogames 🎮</p>
 
-      🧑 More about me
-      
-      - 🎮 I like to play videogames (**still working**)
-      
-      - 🌱 still working 🤓
-      
-      - 🤝 still working
-      
-      - 👨‍💻 still working
-      
-      - 💬 still working
-      
-      - 📫 Reach me
+    🧑 More about me
+    
+    - 🎮 I like to play video games in my free time.
+    
+    - 🌱 I like to learn a little bit of everything
+    
+    - 🤝 I love listening to music. I can't do anything if i'm not listening to something
+    
+    - 👨‍💻 I love watching anime, I usually watch it daily. Also, I like reading manga.
+    
+    - 💬 Also, I spend a lot of time on Discord. I like watching random people's streams
+    
+    - 📫 I'm currently looking for things to do. If you need anything, you can Reach me.
   </div>
 </div>
 
@@ -157,3 +157,15 @@ _**"Auf Wanderung"**_ | **Hermann Hesse**
   <img height="180" src="https://giffiles.alphacoders.com/345/34580.gif"  />
   <img height="180" src="https://media1.tenor.com/images/51f85166e1dbc05autoa6717bf97b52de1/tenor.gif?itemid=9917869"  />
 </div>
+
+<div align="center">
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto" align="center"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto" align="center"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto" align="center"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto" align="center"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="10%" height="auto" align="center"/></a>
+  </div>
