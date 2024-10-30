@@ -51,7 +51,7 @@
 
 <div align="center">
   <a href="https://github.com/AkemiKami201"><img width="50%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=AkemiKami201&disable_animations=false&show_icons=true&include_all_commits=true&count_private=true&theme=calm_pink&title_color=ffauto68?"></a>
-  <a href="https://github.com/AkemiKami201"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=AkemiKami201&theme=outrun&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=AkemiKami201&theme=outrun&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkemiKami201&theme=outrun&layout=donut)](https://github.com/AkemiKami201)
   
