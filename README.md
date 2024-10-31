@@ -84,23 +84,35 @@
 <h2> 🔥 Languages and Frameworks </h2>
 
 <div align="center">
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000" height="60" alt="javascript logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" height="60" alt="typescript logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=Vra58PN2KmI5&format=png&color=000000" height="60" alt="react logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=tDgTMcLwgORi&format=png&color=000000" height="60" alt="html5 logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=Gw2E6wxTkOcT&format=png&color=000000" height="60" alt="css3 logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000" height="60" alt="python logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" height="60" alt="csharp logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=XiUbqgjmy6MG&format=png&color=000000" height="60" alt="django logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=FBycNmdwUQz1&format=png&color=000000" height="60" alt="java logo"  /></a>
-  <a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Ffull%2F98-985032_flask-logo-flask-python-icon.png&f=1&nofb=1&ipt=703a9da63ce8cff8b2b8cf63c227df5145778b8fb6e89fb140fe3954b7c77568&ipo=images" height="60" alt="flask logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" height="60" alt="tailwindcss logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" height="60" alt="nodejs logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=6HoY2R49rl7A&format=png&color=000000" height="60" alt="microsoftsqlserver logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000" height="60" alt="mysql logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000" height="60" alt="postgresql logo"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000" height="60" alt="bash"  /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000" height="60" alt="git"/></a>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+	<code><img width="65" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/265605607-dc393bd9-90b8-40d6-b396-dd9e547890c9.png" alt="Materialize" title="Materialize"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" alt="Material Design" title="Material Design"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="65" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="65" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="MariaDB" title="MariaDB"/></code>
+	<code><img width="65" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
+	<code><img width="65" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
+	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/></code>
+	<code><img width="65" src="https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683" alt="Kali Linux" title="Kali Linux"/></code>
 </div>
 
 <a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
