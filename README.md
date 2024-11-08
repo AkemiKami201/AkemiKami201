@@ -27,17 +27,17 @@
   <p align="left">> Learning new things<br>
   Also anime lover 🌟, manga reader ❄ and like to play videogames 🎮</p>
 
-    🧑 More about me
+    🎲 More about me
     
     - 🎮 I like to play video games in my free time.
     
-    - 🌱 I like to learn a little bit of everything
+    - ⭐ I like to learn a little bit of everything
     
-    - 🤝 I love listening to music. I can't do anything if i'm not listening to something
+    - 🎶 I love listening to music. I can't do anything if i'm not listening to something
     
-    - 👨‍💻 I love watching anime, I usually watch it daily. Also, I like reading manga.
+    - 🎞 I love watching anime, I usually watch it daily. Also, I like reading manga.
     
-    - 💬 Also, I spend a lot of time on Discord. I like watching random people's streams
+    - 🖥 Also, I spend a lot of time on Discord. I like watching random people's streams
     
     - 📫 I'm currently looking for things to do. If you need anything, you can Reach me.
   </div>
