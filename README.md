@@ -112,7 +112,6 @@
 	<code><img width="65" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/></code>
 	<code><img width="65" src="https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683" alt="Kali Linux" title="Kali Linux"/></code>
 </div>
-
 <a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
 
 <h2> 🔥 Tools </h2>
