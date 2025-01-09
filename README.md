@@ -31,9 +31,9 @@
     
     - 🎮 I like to play video games in my free time.
     
-    - ⭐ I like to learn a little bit of everything
+    - ⭐ I like to learn a little bit of everything.
     
-    - 🎶 I love listening to music. I can't do anything if i'm not listening to something
+    - 🎶 I love listening to music. I can't do anything if i'm not listening to something.
     
     - 🎞 I love watching anime, I usually watch it daily. Also, I like reading manga.
     
