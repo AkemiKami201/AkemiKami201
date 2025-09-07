@@ -25,7 +25,7 @@
 <div>
   <h1 align="left">Hello I'm AkemiKami201 </h1>
   <p align="left">> Learning new things<br>
-  Also anime lover 🌟, manga reader ❄ and like to play videogames 🎮 (This is my <a href="https://i.imgur.com/yw4nKck.png">My desktop</a>) </p>
+  Also anime lover 🌟, manga reader ❄ and like to play videogames 🎮 (This is my <a href="https://flic.kr/p/2rgh4zY/lightbox">My desktop</a>) </p>
 
     🎲 More about me
     
