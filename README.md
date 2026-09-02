@@ -50,11 +50,7 @@
 <a href="#"><img align="right" width="47%" src="https://i.postimg.cc/GtpCBLqy/akemi01.png"/></a>
 
 <div align="center">
-  <a href="https://github.com/AkemiKami201"><img width="50%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=AkemiKami201&disable_animations=false&show_icons=true&include_all_commits=true&count_private=true&theme=calm_pink&title_color=ffauto68?"></a>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkemiKami201&theme=outrun&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
-                        
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkemiKami201&theme=outrun&layout=donut)](https://github.com/AkemiKami201)
-  
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkemiKami201&theme=outrun&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"> 
 </div>
 
 <a href="#"><img align="right" width="auto" src="img/line1.png"/></a>
@@ -65,7 +61,6 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkemiKami201&theme=radical)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkemiKami201&theme=radical&utcOffset=8)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkemiKami201&theme=radical)
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akemi201&layout=compact)](https://github.com/AkemiKami201)
   
 </div>
 
@@ -129,7 +124,7 @@
 
 <div align="center">
   
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=oci9tsi2v1tvjn0bp11kow1r5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/AkemiKami201/spotify-github-profile)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=oci9tsi2v1tvjn0bp11kow1r5">
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=oci9tsi2v1tvjn0bp11kow1r5&cover_image=true&theme=default&show_offline=false&background_color=292424&interchange=false&profanity=false&hide_remaster=false&bar_color=fd3b26&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=oci9tsi2v1tvjn0bp11kow1r5">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=oci9tsi2v1tvjn0bp11kow1r5&hide_top_artists=1&show_border=1" height="443" alt="Data Card for Spotify">
   </a> 
 </div>
